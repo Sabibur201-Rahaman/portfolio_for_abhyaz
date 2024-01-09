@@ -1,0 +1,10 @@
+<Layout>
+      <Home/>
+       <About/>
+       <Promo/>
+       <Services/>
+       <Teams/>
+       <Projects/>
+       <Contacts/>
+       <ScrollBottom/>
+     </Layout>
